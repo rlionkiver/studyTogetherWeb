@@ -22,8 +22,7 @@ Study Together is a simple web application designed to help students collaborate
 4. Explore and collaborate with others in the study community.
 
 ## 👤 Author
-**Regia Qolbu**  
-Class: **IS-1**  
+**Rlion Kiver**  
 
 ## 📅 Creation Date
 29/03/2025
